@@ -1,2 +1,2 @@
 # js
-Some Javascript experiments
+Testing Javascript functions
